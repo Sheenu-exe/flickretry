@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+html{
+  background:#212f45;
+}
+body{
+  background:#212f45;
+  
+}
+.new-message-form{
+  background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 28%, rgba(253,187,45,0) 100%);
+}
